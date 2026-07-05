@@ -24,7 +24,7 @@ Traditional lock systems require physical keys that can be lost or duplicated. T
 ---
 
 ## Demo
-[Watch Demo](your-youtube-link-here)
+[Watch Demo](https://youtu.be/aY8ERx99_fM)
 
 > **Note:** The demo shows the original version of the system. The current code includes additional features — failed attempt tracking, 10-second lockout after 3 denied scans, uptime timestamps, and automated Java access logging to a .txt file.
 
